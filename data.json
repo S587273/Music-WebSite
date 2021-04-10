@@ -1,0 +1,35 @@
+{
+    "music_data": {
+        "first": {
+            "sl_no": "01",
+            "song_name": "Rain on Me",
+            "song_description": "It’s common practice for music fans to dub different songs “the anthem” of a specific year. But in 2020 — a year defined (and constantly redefined) by how preternaturally awful things can actually get — one song in particular served as its saving grace. “Rain on Me,” Lady Gaga and Ariana Grande’s front-facing pop testimonial to the power of crying and persevering through your own trauma, is 2020’s unofficial theme song.\n For starters, Gaga and Grande’s voices prove to be a perfect match: The strong, theatrical mezzo Gaga brings to the table meshes faultlessly with Grande’s light, shimmering soprano. Their duet is only further bolstered by the house-shaking production, courtesy of BloodPop, BURNS and Tchami, whose intricate mix of French house basslines, ‘90s dance-pop beats and hallucinatory techno drops (with some good-old fashioned disco drama thrown in for fun) thrust 'Rain on Me' to a stratospheric level of pop perfection. But the key to what makes “Rain on Me” such a glorifying success lies in its writing. The song manages to be specific in its approach to Gaga’s use of alcohol to numb her pain -- the chorus' hopeful refrain of 'I'd rather be dry, but at least I'm alive' also refers to Gaga being thankful she's still here, even if she isn't sober yet -- while also leaving enough room for fans to insert their own respective traumas, or to simply enjoy the ride unburdened.",
+            "song_img": "music.jpg"
+        },
+        "second": {
+            "sl_no": "02",
+            "song_name": "Both of Us",
+            "song_description": "The relentless piano hook in this sunny electronic bop from Canadian DJ-producer Jayda G sounds like it could go on forever, and it should. Paired with the artist’s icy vocals and an unexpected, crawling breakdown two-thirds through, “Both Of Us” induces that particular wave of nostalgia for dancing in a sweaty crowd. Thankfully, the (now Grammy-nominated!) track is just as infectious when dancing alone in your living room, solidifying Jayda G as one of this year’s brightest new talents. -- TATIANA CIRISANO",
+            "song_img": "music2.jpg"
+        },
+
+        "third": {
+            "sl_no": "03",
+            "song_name": "Be Like That",
+            "song_description": "Typically, failed relationships lead to somber breakup anthems, but in the case of Kane Brown's 'Be Like That,' he's in an upbeat mood when chalking up his losses. By enlisting Khalid and Swae Lee, the country superstar creates a hybrid superteam eager to bounce back and secure true love the next time around. Brown's summery vibe resonated with down-but-not-out lovers, as it became a top 20 success on the Hot 100. -- CARL LAMARRE",
+            "song_img": "music3.png"
+        },
+        "forth": {
+            "sl_no": "04",
+            "song_name": "More Than My Hometown",
+            "song_description": "Romantic love’s tug can be impossible to resist, but it doesn’t compare to the love Wallen feels for his hometown -- or his lover’s need to pack her bags and follow her dreams on this gentle, mid-tempo ballad. Wallen cleverly describes the many ways that he loves his “girl,” but quaintly confesses (in a clever reference to Conway Twitty) that “this may be the last time I get to lay you down” -- as his love ends up on the losing end of his titular affection. Part of the Country Airplay chart-topper's appeal is the lack of vitriol or bitterness, just a sad realization that sometimes love isn’t enough. -- MELINDA NEWMAN",
+            "song_img": "music4.jpg"
+        }
+    },
+    "student_data": {
+        "name": "Bizoree Rahmotullah",
+        "id": "S317788",
+        "members": "mosh",
+        "description": "some description"
+    }
+}

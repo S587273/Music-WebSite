@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.menu a {
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    padding: 10px 60px;
+    color: black;
+    font-size: 20px;
+    font-weight: 100;
+    transition: .3s linear;
+    position: relative;
+}
+
+.menu a:hover {
+    color: rgb(252, 2, 2);
+}
+
+ul {
+    margin: 0;
+    padding: 0 0 0 20px;
+    list-style-type: none;
+    display: inline-flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(17, 150, 173);
+    flex-wrap: wrap;
+}
+
+footer {
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    background-position: bottom;
+    height: 20px;
+}
+
+
+.song_img 
+{
+    width: 200px;
+    height: 200px;
+}
+
+.excerpt 
+{
+    width: 70%;
+}
+
+.table-bordered
+{
+ width: 700px;
+}
+
+.th
+{
+    text-align: left;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td 
+{
+    padding: 10px;
+}
+
+tr:nth-child(even)
+{
+    background: rgb(77, 150, 173);
+}
